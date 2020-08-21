@@ -6319,11 +6319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abel\\Documents\\chatflowsrv\\ChatFlowSrv\\ChatFlowSrv.csproj",
+      "projectUniqueName": "C:\\Users\\Abel\\Documents\\chatflowsrv\\ChatFlowSrv.csproj",
       "projectName": "ChatFlowSrv",
-      "projectPath": "C:\\Users\\Abel\\Documents\\chatflowsrv\\ChatFlowSrv\\ChatFlowSrv.csproj",
+      "projectPath": "C:\\Users\\Abel\\Documents\\chatflowsrv\\ChatFlowSrv.csproj",
       "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abel\\Documents\\chatflowsrv\\ChatFlowSrv\\obj\\",
+      "outputPath": "C:\\Users\\Abel\\Documents\\chatflowsrv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
